@@ -5,25 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96929df0-71b7-4270-8821-b5e95ea9a443" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingBlock_Classes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture2/Pattern0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture2/Pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture2/Pattern12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture2/Pattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture2/Pattern21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture2/Pattern22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture2/Pattern3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture2/Pattern4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture2/Pattern5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture2/Pattern6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture2/Pattern7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture2/Pattern9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture2/Pattern10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture2/Pattern11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture2/Pattern30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture3/Pattern13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture3/Pattern14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture3/Pattern16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture3/Pattern17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture3/Pattern18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture3/Pattern19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture3/Pattern24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture3/Pattern25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture3/Pattern27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/Pattern5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture2/Pattern5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/Pattern7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecture2/Pattern7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +80,13 @@
       <recent name="E:\CodingBlock_Classes\src\Lecture_30June2024" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Pattern7">
-    <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture2.Pattern1" />
+  <component name="RunManager" selected="Application.Pattern30">
+    <configuration name="Pattern17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelfPractise.Pattern17" />
       <module name="CodingBlock_Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture2.*" />
+          <option name="PATTERN" value="SelfPractise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture2.Pattern22" />
+    <configuration name="Pattern18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelfPractise.Pattern18" />
       <module name="CodingBlock_Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture2.*" />
+          <option name="PATTERN" value="SelfPractise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture2.Pattern3" />
+    <configuration name="Pattern19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelfPractise.Pattern19" />
       <module name="CodingBlock_Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture2.*" />
+          <option name="PATTERN" value="SelfPractise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture2.Pattern5" />
+    <configuration name="Pattern21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelfPractise.Pattern21" />
       <module name="CodingBlock_Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture2.*" />
+          <option name="PATTERN" value="SelfPractise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture2.Pattern7" />
+    <configuration name="Pattern30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SelfPractise.Pattern30" />
       <module name="CodingBlock_Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture2.*" />
+          <option name="PATTERN" value="SelfPractise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,19 +155,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.Pattern1" />
-      <item itemvalue="Application.Pattern22" />
-      <item itemvalue="Application.Pattern3" />
-      <item itemvalue="Application.Pattern5" />
-      <item itemvalue="Application.Pattern7" />
+      <item itemvalue="Application.Pattern17" />
+      <item itemvalue="Application.Pattern18" />
+      <item itemvalue="Application.Pattern19" />
+      <item itemvalue="Application.Pattern21" />
+      <item itemvalue="Application.Pattern30" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pattern7" />
-        <item itemvalue="Application.Pattern5" />
-        <item itemvalue="Application.Pattern3" />
-        <item itemvalue="Application.Pattern1" />
-        <item itemvalue="Application.Pattern22" />
+        <item itemvalue="Application.Pattern30" />
+        <item itemvalue="Application.Pattern21" />
+        <item itemvalue="Application.Pattern19" />
+        <item itemvalue="Application.Pattern18" />
+        <item itemvalue="Application.Pattern17" />
       </list>
     </recent_temporary>
   </component>

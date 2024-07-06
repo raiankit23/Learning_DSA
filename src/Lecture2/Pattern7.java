@@ -23,6 +23,5 @@ public class Pattern7 {
             row++;
             System.out.println();
         }
-
     }
 }

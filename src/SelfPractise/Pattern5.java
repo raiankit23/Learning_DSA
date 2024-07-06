@@ -1,30 +1,29 @@
-package Lecture2;
+package SelfPractise;
 
 public class Pattern5 {
     public static void main(String[] args) {
-
-        int n=5;
-        int row = 1;
+        int n = 5;
         int space = 0;
-        int star = 5;
+        int star = n;
+        int row =1;
 
         while (row<=n){
-
-            // print space
-            int j=1;
-            while (j<=space){
-                System.out.print("  ");
-                j++;
-            }
-            // print star
+            //space
             int i=1;
-            while (i<=star){
-                System.out.print("* ");
+            while (i<=space){
+                System.out.print("  ");
                 i++;
             }
-            row++;
+            //star
+            int j=1;
+            while (j<=star){
+                System.out.print("* ");
+                j++;
+            }
+            //next row ki prep
             space++;
             star--;
+            row++;
             System.out.println();
         }
     }
