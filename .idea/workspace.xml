@@ -5,35 +5,207 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96929df0-71b7-4270-8821-b5e95ea9a443" name="Changes" comment="Lecture3 and Self Practise of Various Pattern">
-      <change afterPath="$PROJECT_DIR$/src/Assignment2/CountDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment2/PrintReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture4/CheckPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture4/CheckPrimeUsingBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture4/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture4/ForLoop_Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture4/GCDofNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture4/PascalTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture4/ReverseNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture4/SumOfDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture5/BinaryToDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture5/CharDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture5/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture5/Decimal_To_Binary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture5/Float_Double.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture6/ArmStrong_Num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture6/FuncDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture6/InverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture6/PascalTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PractiseDay2/Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SelfPractise/HackerBlockPractise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Assign4_Binary_2dArray/BookAllocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Assign6Rec_BackTrack_6641/BoardPathPrintandCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Assign6Rec_BackTrack_6641/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Assign6Rec_BackTrack_6641/MazePathDCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Assign6Rec_BackTrack_6641/OddDec_EvenInc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Assign6Rec_BackTrack_6641/PalindromicSubStringsUsingAxisOrbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Assign6Rec_BackTrack_6641/ReplaceZeroWithFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Assignment2/ReplaceThemAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Assignment5_Strings/CBNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Assignment5_Strings/CanYouReadThis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Assignment5_Strings/CountPalindromicSubstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Assignment5_Strings/DiffInAsciiCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Assignment5_Strings/IsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Assignment5_Strings/MaxFrequencyCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Assignment5_Strings/PlayingwithGoodString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Assignment5_Strings/RemoveConsecutiveDuplicateChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Assignment5_Strings/StringCompression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Assignment5_Strings/StringCompression2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Assignment5_Strings/StringOddEvenChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/Assignment5_Strings/ToggleCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/BackTracking/CoinCombination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/BackTracking/CoinPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/BackTracking/CombinationSum_Leetcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/BackTracking/PalindromePartioning_Leetcode131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/BackTracking/QueenCombination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/BackTracking/QueenPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/RecPractise1/CoinToss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/RecPractise1/CountCoinToss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/RecPractise1/CountCoinTossWhenNoTwoConsecutiveHeadRepeats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/RecPractise1/CountSubstringUsingRecusion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/RecPractise1/NoTwoConsecutiveHead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/RecPractise1/PrintAllSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/RecPractise2/BoardPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/RecPractise2/CountBoardPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/RecPractise2/GenerateParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/AnyToAnyConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/BostonNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/ChewbaccaNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Sprial_Print_ClockWise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Array2D/SearchIN2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Array2D/SpiralPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Array2D/TransposeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Array2D/TwoD_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Array2D/VerticalWavePrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec15Recursion/Fact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec15Recursion/Fact_Tail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec15Recursion/Fibonaaci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec15Recursion/FirstOccur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec15Recursion/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec15Recursion/Print_Dec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec15Recursion/Print_INC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec17Recursion3/CharSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec17Recursion3/GenerateParanthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec17Recursion3/Lexicographical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec17Recursion3/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec17Recursion3/PermutationWithNoRepeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec18Backtracking/CoinCombination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec18Backtracking/CoinPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec18Backtracking/QueenCombination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec18Backtracking/Queen_Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec19Recursion4/ArrayListDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec19Recursion4/CombinationSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec19Recursion4/KeyPad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec19Recursion4/LetterCombinationOfPhoneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec19Recursion4/MazePath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec19Recursion4/PalindromicSubstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec19Recursion4/Two2dList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec20Rec5/CountPrime_LeetCode205.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec20Rec5/Palindrome_Partitioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec20Rec5/RatChasesItsCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec20Rec5/SieveOfEratosthenes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec21Rec6/MergeTwoSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec21Rec6/NQueen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec21Rec6/PartitionInArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec21Rec6/SudokuSolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec22Divide_Conquer/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec22Divide_Conquer/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec22Divide_Conquer/RandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec22Divide_Conquer/RandomiseQuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec23Oops/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec23Oops/PersonClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec23Oops/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec23Oops/StudentClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec24Oops2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec24Oops2/PersonClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec24Oops2/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec24Oops2/QueueClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec24Oops2/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec24Oops2/StackClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lec24Oops2/StackJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture10/AggressiveCows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture10/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture10/FirstBadVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture10/Kth_Root.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture11/TimeComplexity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture13_Strings/CheckPalindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture13_Strings/PlayingWithGoodString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture13_Strings/PrintEqualLenSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture13_Strings/PrintSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture13_Strings/ReverseWordInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture13_Strings/StringCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture13_Strings/StringDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture13_Strings/StringDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture13_Strings/StringDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture14/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture14/ArrayListDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture14/CBNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture14/Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture14/WrapperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture7/ArraySwap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture7/ArraySwap2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture7/Array_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture7/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture7/MaximumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture7/Range_ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture7/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture7/TakeInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture8/ProductExceptSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture8/RainWaterTrapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture8/ReversalAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture8/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture9/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture9/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture9/KadaneAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture9/MaximumSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture9/MinIndexReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture9/PreInsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecutures/Lecture9/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SelfPractise/Pattern30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment2/CountDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/Assignment2/CountDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment2/PrintReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/Assignment2/PrintReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/Pattern0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture2/Pattern0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/Pattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture2/Pattern1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/Pattern10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture2/Pattern10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/Pattern11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture2/Pattern11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/Pattern12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture2/Pattern12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/Pattern2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture2/Pattern2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/Pattern21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture2/Pattern21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/Pattern22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture2/Pattern22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/Pattern3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture2/Pattern3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/Pattern30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture2/Pattern30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/Pattern4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture2/Pattern4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/Pattern5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture2/Pattern5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/Pattern6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture2/Pattern6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/Pattern7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture2/Pattern7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture2/Pattern9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture2/Pattern9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture3/Pattern13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture3/Pattern13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture3/Pattern14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture3/Pattern14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture3/Pattern16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture3/Pattern16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture3/Pattern17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture3/Pattern17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture3/Pattern18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture3/Pattern18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture3/Pattern19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture3/Pattern19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture3/Pattern24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture3/Pattern24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture3/Pattern25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture3/Pattern25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture3/Pattern27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture3/Pattern27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture4/CheckPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture4/CheckPrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture4/CheckPrimeUsingBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture4/CheckPrimeUsingBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture4/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture4/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture4/ForLoop_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture4/ForLoop_Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture4/GCDofNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture4/GCDofNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture4/PascalTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture4/PascalTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture4/ReverseNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture4/ReverseNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture4/SumOfDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture4/SumOfDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture5/BinaryToDecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture5/BinaryToDecimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture5/CharDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture5/CharDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture5/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture5/DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture5/Decimal_To_Binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture5/Decimal_To_Binary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture5/Float_Double.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture5/Float_Double.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture6/ArmStrong_Num.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture6/ArmStrong_Num.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture6/FuncDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture6/FuncDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture6/InverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture6/InverseNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lecture6/PascalTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lecutures/Lecture6/PascalTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PractiseDay2/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/PractiseDay2/Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/HackerBlockPractise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/HackerBlockPractise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SelfPractise/Pattern9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignments/SelfPractise/Pattern9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,13 +246,13 @@
       <recent name="E:\CodingBlock_Classes\src\Lecture_30June2024" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrintReverse">
-    <configuration name="CountDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment2.CountDigits" />
+  <component name="RunManager" selected="Application.QueueClient">
+    <configuration name="Lecutures.Lec24Oops2.PersonClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecutures.Lec24Oops2.PersonClient" />
       <module name="CodingBlock_Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment2.*" />
+          <option name="PATTERN" value="Lecutures.Lec24Oops2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +260,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HackerBlockPractise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SelfPractise.HackerBlockPractise" />
+    <configuration name="PersonClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecutures.Lec23Oops.PersonClient" />
       <module name="CodingBlock_Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SelfPractise.*" />
+          <option name="PATTERN" value="Lecutures.Lec23Oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +273,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture6.InverseNumber" />
+    <configuration name="QueueClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecutures.Lec24Oops2.QueueClient" />
       <module name="CodingBlock_Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture6.*" />
+          <option name="PATTERN" value="Lecutures.Lec24Oops2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +286,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lecture6.PascalTriangle" />
+    <configuration name="StackClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecutures.Lec24Oops2.StackClient" />
       <module name="CodingBlock_Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture6.*" />
+          <option name="PATTERN" value="Lecutures.Lec24Oops2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +299,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment2.PrintReverse" />
+    <configuration name="StackJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lecutures.Lec24Oops2.StackJava" />
       <module name="CodingBlock_Classes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment2.*" />
+          <option name="PATTERN" value="Lecutures.Lec24Oops2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,19 +321,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.CountDigits" />
-      <item itemvalue="Application.PrintReverse" />
-      <item itemvalue="Application.InverseNumber" />
-      <item itemvalue="Application.PascalTriangle" />
-      <item itemvalue="Application.HackerBlockPractise" />
+      <item itemvalue="Application.Lecutures.Lec24Oops2.PersonClient" />
+      <item itemvalue="Application.QueueClient" />
+      <item itemvalue="Application.StackClient" />
+      <item itemvalue="Application.StackJava" />
+      <item itemvalue="Application.PersonClient" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintReverse" />
-        <item itemvalue="Application.CountDigits" />
-        <item itemvalue="Application.HackerBlockPractise" />
-        <item itemvalue="Application.PascalTriangle" />
-        <item itemvalue="Application.InverseNumber" />
+        <item itemvalue="Application.QueueClient" />
+        <item itemvalue="Application.StackClient" />
+        <item itemvalue="Application.StackJava" />
+        <item itemvalue="Application.Lecutures.Lec24Oops2.PersonClient" />
+        <item itemvalue="Application.PersonClient" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +353,14 @@
       <option name="project" value="LOCAL" />
       <updated>1720292409549</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lecture3 and Self Practise of Various Pattern">
+      <created>1722054028703</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722054028703</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
